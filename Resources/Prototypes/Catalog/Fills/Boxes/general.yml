@@ -464,13 +464,11 @@
         amount: 3
       - id: DartBlue
         amount: 3
-      - id: DartPurple
-        amount: 3
       - id: DartYellow
         amount: 3
   - type: Storage
     grid:
-    - 0,0,5,3
+    - 0,0,2,2
   - type: Sprite
     layers:
       - state: box
